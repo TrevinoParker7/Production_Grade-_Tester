@@ -3,6 +3,9 @@
 <img width="2752" height="1536" alt="Gemini_Generated_Image_wjjevjwjjevjwjje" src="https://github.com/user-attachments/assets/dc1d1e88-dd73-4273-a6bd-7864e2e341ce" />
 
 ---
+
+Youtube Video:  https://youtu.be/uDajry_WKyw
+---
 ## AI Reliability Scanner: From Zero to Production
 
 ---
